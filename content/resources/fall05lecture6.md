@@ -5,6 +5,7 @@ file: /courses/7-18-topics-in-experimental-biology-fall-2005/931b881838a1deade00
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: fall05lecture6.pdf
 uid: 931b8818-38a1-dead-e006-3594aa5d7eb8
 ---
 This resource contains project outline, journal club, and student presentations.
-

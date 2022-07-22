@@ -6,6 +6,7 @@ file: /courses/7-18-topics-in-experimental-biology-fall-2005/dc0046852d7c1dc1fd6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: fall05lectu7_lar.pdf
 uid: dc004685-2d7c-1dc1-fd69-e512a0c71921
 ---
 This resource contains example of an introduction, background and significance, and an example of background & significance.
-

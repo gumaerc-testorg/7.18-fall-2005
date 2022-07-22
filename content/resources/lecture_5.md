@@ -5,6 +5,7 @@ file: /courses/7-18-topics-in-experimental-biology-fall-2005/b35b320034a7a15151f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
