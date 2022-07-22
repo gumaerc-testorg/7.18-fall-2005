@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The syllabus section contains course outline, prerequisites and requirements,
+  oral presentations and journal paper discussions, final paper and supporting documents,
+  and grades for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: df2b7479-c2f4-36e9-3b18-95a9a6318e89
 ---
