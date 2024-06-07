@@ -4,6 +4,7 @@ description: This resource contains oocyte transfers and embryo injections, prep
   of nanoparticles, southern blot analysis, electrophysiology, and proteins and In
   vitro substrates.
 file: /courses/7-18-topics-in-experimental-biology-fall-2005/76f8381ac77dfa2acb16a8e737b4909a_fall05mm_lar.pdf
+file_size: 158347
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
