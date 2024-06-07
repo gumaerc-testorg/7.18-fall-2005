@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains abstract, 5-sentence scientific abstract, non-scientific
   abstract, and group exercise: writing a non-scientific abstract.'
 file: /courses/7-18-topics-in-experimental-biology-fall-2005/a19af18a06a8f19ffde1c329f0ccca12_fall05abstra_lar.pdf
+file_size: 129425
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

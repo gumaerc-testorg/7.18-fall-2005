@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-18-topics-in-experimental-biology-fall-2005/b35b320034a7a15151fce8437b60f2e3_lecture_5.pdf
+file_size: 28726
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
