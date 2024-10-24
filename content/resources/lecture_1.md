@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/7-18-topics-in-experimental-biology-fall-2005/a47a8a3ecfd189edeb35ad47bd601ff1_lecture_1.pdf
+file: /ol-ocw-studio-app/courses/7-18-topics-in-experimental-biology-fall-2005/a47a8a3ecfd189edeb35ad47bd601ff1_lecture_1.pdf
 file_size: 41569
 file_type: application/pdf
 learning_resource_types:
