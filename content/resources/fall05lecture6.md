@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains project outline, journal club, and student presentations.
-file: /courses/7-18-topics-in-experimental-biology-fall-2005/931b881838a1deade0063594aa5d7eb8_fall05lecture6.pdf
+file: /ol-ocw-studio-app/courses/7-18-topics-in-experimental-biology-fall-2005/931b881838a1deade0063594aa5d7eb8_fall05lecture6.pdf
 file_size: 55692
 file_type: application/pdf
 learning_resource_types:
