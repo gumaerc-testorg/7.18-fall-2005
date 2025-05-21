@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains example of an introduction, background and significance,
   and an example of background & significance.
-file: /ol-ocw-studio-app/courses/7-18-topics-in-experimental-biology-fall-2005/dc0046852d7c1dc1fd69e512a0c71921_fall05lectu7_lar.pdf
+file: /courses/7-18-topics-in-experimental-biology-fall-2005/dc0046852d7c1dc1fd69e512a0c71921_fall05lectu7_lar.pdf
 file_size: 139385
 file_type: application/pdf
 learning_resource_types:
