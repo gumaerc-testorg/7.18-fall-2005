@@ -17,7 +17,7 @@ Lectures: 2 sessions / week, 2 hours / session
 Course Outline
 --------------
 
-7.18 is for students who carry out independent research as part of MIT's UROP program to fulfill the Biology Department Project Lab requirement. UROP is MIT's {{% resource_link "d2f46287-a540-4319-b7e0-c05625fc1581" "Undergraduate Research Opportunities Program" %}}. Although research is carried out in different labs, the regular meetings in class will provide the same educational opportunities and training as those offered by the Project Labs. The goals of this course are to learn the following:
+7.18 is for students who carry out independent research as part of MIT's UROP program to fulfill the Biology Department Project Lab requirement. UROP is MIT's [Undergraduate Research Opportunities Program](http://web.mit.edu/urop/). Although research is carried out in different labs, the regular meetings in class will provide the same educational opportunities and training as those offered by the Project Labs. The goals of this course are to learn the following:
 
 *   how to present research, both orally and in writing
 *   the mechanics of writing papers and abstracts
